@@ -1,7 +1,7 @@
 ---
 title: "Activity: Check-in"
 ---
-# Activity: Check-in
+# Activity: Check-in TEST!
 
 ![Here is a picture of people doing an introductory check-in during a learning circle.](https://community.p2pu.org/uploads/default/original/2X/8/8fa8c70c4a774752665dd853feb652b845f74726.jpeg)
 
